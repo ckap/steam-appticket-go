@@ -1,4 +1,4 @@
-option go_package = "github.com/tmcarey/steam-appticket-go/protobufs/steamencryptedappticket";
+option go_package = "github.com/ckap/steam-appticket-go/protobufs/steamencryptedappticket";
 
 option optimize_for = SPEED;
 option cc_generic_services = false;
