@@ -17,7 +17,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/tmcarey/steam-appticket-go/generated/github.com/tmcarey/steam-appticket-go/protobufs/steamencryptedappticket"
+	"github.com/ckap/steam-appticket-go/generated/github.com/tmcarey/steam-appticket-go/protobufs/steamencryptedappticket"
 	"google.golang.org/protobuf/proto"
 )
 
