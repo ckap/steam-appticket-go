@@ -1,4 +1,4 @@
-module github.com/tmcarey/steam-appticket-go
+module github.com/ckap/steam-appticket-go
 
 go 1.25
 
